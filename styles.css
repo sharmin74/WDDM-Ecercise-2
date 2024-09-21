@@ -3,6 +3,11 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+img{
+    max-width: 50%;
+    margin: 30px auto 20px;
+    display: block;
+}
 .center-img{
     max-width: 50%;
     margin: 30px auto 20px;
@@ -14,6 +19,11 @@ body{
 p{
     max-width: 50%;
     margin: 0 auto;
+}
+a{
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
 }
 p.important{
     font-weight: bold;   
